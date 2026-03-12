@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "さよならに さよなら",
+  "base_artist": "Kaientai",
+  "createdAt": "2026-03-12T18:41:30.996263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならに さよなら",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/01_さよならに_さよなら_Kaientai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよならに さよなら",
+      "artist": "海援隊",
+      "has_synced": true,
+      "path": "select/02_さよならに_さよなら_海援隊.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよならに さよなら - Sayonarani Sayonara",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/03_さよならに_さよなら_-_Sayonarani_Sayonara_Kaientai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならにさよなら",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_01_さよならにさよなら_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さよならにさよなら(1995年「ドラえもん のび太の創世日記」)",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_02_さよならにさよなら(1995年「ドラえもん_のび太の創世日記」)_海援隊.txt"
+    }
+  ]
+}
